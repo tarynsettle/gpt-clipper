@@ -8,5 +8,5 @@ Does not do much as of now; my intention was to use a hotkey, but I am having tr
 
 Simply download and run:
 
-> python3 <path>/test.py
+```python3 <path>/test.py```
 
